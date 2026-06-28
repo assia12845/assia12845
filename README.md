@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Assia 👋
 
-<!--
-**assia12845/assia12845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & Cloud Engineer based in Morocco 🇲🇦 
+## 🔧 What I work with
+- **Containers:** Docker · Kubernetes · Helm · ArgoCD
+- **CI/CD:** GitLab CI/CD · GitHub Actions · Jenkins
+- **Cloud:** AWS · OCI · Azure
+- **Monitoring:** Zabbix · Prometheus · Grafana
+- **OS & Networking:** Linux · Apache · Nginx · DNS · SMTP
 
-Here are some ideas to get you started:
+## 📌 Current focus
+- 🎯 AWS Solutions Architect Associate (in progress)
+- 🔨 Building DevOps portfolio projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me
+elcadiassia@gmail.com · [LinkedIn](https://linkedin.com/in/elcadi128)
